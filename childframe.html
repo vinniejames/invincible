@@ -36,13 +36,14 @@
 			e.stopPropagation();
 			// Send the user's age and height to the parent window--sending the
 			// data as an object that the parent can receive and parse.
-			console.log("Sending data to http://dev.project.com.");
+			const domain = 'https://vinniejames.de';
+			console.log("Sending data to ", domain);
 			parent.postMessage(
 				{
 					user_age:    $("input[name='user_age']").val(),
 					user_height: $("input[name='user_height']").val(),
 				},
-				"http://dev.project.com");
+				domain);
 			// The `parent.postMesage()` call allows you to specify "*" as the
 			// second argument--allowing you to send messages to any parent
 			// window regardless of the parent window's origin. To me, this
