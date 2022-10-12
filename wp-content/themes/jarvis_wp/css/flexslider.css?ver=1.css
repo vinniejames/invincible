@@ -1,10 +1,10 @@
 /*
  * jQuery FlexSlider v1.8
- * http://www.woothemes.com/flexslider/
+ * https://www.woothemes.com/flexslider/
  *
  * Copyright 2012 WooThemes
  * Free to use under the MIT license.
- * http://www.opensource.org/licenses/mit-license.php
+ * https://www.opensource.org/licenses/mit-license.php
  */
 
 /* Browser Resets */
@@ -107,7 +107,7 @@ html[xmlns] .slides {
 	width: 52px;
 	height: 52px;
 	display: block;
-	background: url(http://invinciblecreative.com/wp-content/themes/jarvis_wp/css/theme/bg_direction_nav.png) no-repeat;
+	background: url(https://invinciblecreative.com/wp-content/themes/jarvis_wp/css/theme/bg_direction_nav.png) no-repeat;
 	position: absolute;
 	top: 50%;
 	cursor: pointer;
@@ -146,7 +146,7 @@ html[xmlns] .slides {
 	width: 13px;
 	height: 13px;
 	display: block;
-	background: url(http://invinciblecreative.com/wp-content/themes/jarvis_wp/css/theme/bg_control_nav.png) no-repeat;
+	background: url(https://invinciblecreative.com/wp-content/themes/jarvis_wp/css/theme/bg_control_nav.png) no-repeat;
 	cursor: pointer;
 	text-indent: -999em;
 }

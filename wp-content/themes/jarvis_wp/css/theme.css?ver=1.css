@@ -930,7 +930,7 @@ p.quote {
 }
 
 .home-parallax {
-	background: url(http://invinciblecreative.com/wp-content/themes/jarvis_wp/images/parallax/parallax4.jpg);
+	background: url(https://invinciblecreative.com/wp-content/themes/jarvis_wp/images/parallax/parallax4.jpg);
 	background-size: cover !important;
 	background-color: #ff9a00;
 	background-attachment:fixed !important;
@@ -2499,7 +2499,7 @@ opacity: 0;
     opacity: 1;
 }
 .tp-loader {
-    background: url(http://invinciblecreative.com/wp-content/themes/jarvis_wp/css/style/images/loading.gif) no-repeat;
+    background: url(https://invinciblecreative.com/wp-content/themes/jarvis_wp/css/style/images/loading.gif) no-repeat;
     background-color: #fff;
     margin: -15px -15px;
     top: 50%;
